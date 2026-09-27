@@ -1,0 +1,8 @@
+streamlit
+sentence-transformers
+chromadb
+Pillow
+numpy
+requests
+langchain-ollama
+tqdm

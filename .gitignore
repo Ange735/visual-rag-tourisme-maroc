@@ -1,0 +1,6 @@
+chroma_db/
+venv_visual_rag/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+desktop.ini
