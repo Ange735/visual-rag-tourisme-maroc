@@ -1,4 +1,4 @@
-# 🕌 Visual RAG : lieux touristiques marocains
+#  Visual RAG : lieux touristiques marocains
 
 Envoyez la **photo d'un monument marocain** : le système le reconnaît, puis rédige une **fiche touristique** (histoire, anecdote, conseils de visite) avec un LLM qui tourne **entièrement en local**.
 
